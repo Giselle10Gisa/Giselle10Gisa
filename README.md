@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to programm, and I'm at the first semester of computer engineering. I also decided to learn by myself how to use blender
 - 💞️ I’m an intern now, and that is really helping me to improve my learning
 - 📫 How to reach me: you can find me on linkedin, or looking at other social medias
-- Curiosity: To finish high school, I made a project with my group of creating a game that was about problems faced by social minorities, through the RPG Maker MV. I hope
-that in the future I can work more with game developing, at coding, writing or even the design.
+- Curiosity: To finish high school, I made a project with my group of creating a game that was about problems faced by social minorities, focusing on the LGBTQIAP+ comunity, through the RPG Maker MV. I hope
+that in the future I can work more with game developing, at coding, writing or even the design. If you want to check a bit of how the game worked, here is the link of the trailer - https://youtu.be/8JIFDkL52Nc
 - It's a pleasure to meet you, thank you for taking a look at my profile :)
 
 <!---
